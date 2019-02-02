@@ -1,3 +1,4 @@
 Rodział II - Podtytuł 
 hotfix changes 
 zmiana 43 z v1.3
+zmiana w pliku do wyslania 
